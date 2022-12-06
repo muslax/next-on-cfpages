@@ -1,0 +1,6 @@
+name = "next-on-cfpages"
+compatibility_date = "2022-12-06"
+
+kv_namespaces = [
+    { binding = "HONOKV", id = "0ea6a743cfb64182941b111e9d50f6f0", preview_id = "0ea6a743cfb64182941b111e9d50f6f0" }
+]
